@@ -68,7 +68,7 @@ Simply open `index.html` in your browser.
 You can view the project here:
 
 ```
-https://github.com/Himanshu-xeno/Single-Page-CV
+https://github.com/Himanshu-xeno/Single-Page-CV/
 ```
 
 *(Update this link after enabling GitHub Pages.)*
